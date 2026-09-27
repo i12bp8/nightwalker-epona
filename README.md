@@ -1,5 +1,7 @@
 # Nightwalker Epona
 
+![Nightwalker Epona](screenshot.png)
+
 Undead Epona for [Dusklight](https://github.com/TwilitRealm/dusklight). She uses a new model on her original rig, so all her animations still work.
 
 ## Install
